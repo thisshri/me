@@ -11,7 +11,7 @@ github: https://github.com/thisshri
 
 Hi there!
 
-I am a software engineer with a passion for creating web technologies. With extensive experience in both front-end and back-end development, I have honed my skills in various programming languages, including React, Node.js, and Django.
+I am a software engineer with a passion for solving problems. With extensive experience in both front-end and back-end development, I have honed my skills in various technologies including React, Node.js, and Django.
 
 Currently, I work at Str8bat, a sports tech company, where I primarily focus on back-end development. My role requires me to bring new and creative ideas to the table and to help bring them to life through code.
 
